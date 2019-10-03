@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bahasa Pemograman</string>
+    <string name="description_title">Bahasa Pemograman</string>
+    <string name="description">Bahasa pemrograman merupakan untaian kata-kata berupa instruksi atau perintah-perintah yang biasanya terdiri dari banyak baris yang bisa dimengerti oleh komputer</string>
+    <string name="initial_release">Tahun Rilis :</string>
+    <string name="email">solahuddin.hafid.tomaballo@gmail.com</string>
+    <string name="dinel">Dinel</string>
+    <string name="tahun_rilis">Tahun Rilis :</string>
+    <string name="pengembang">Pengembang :</string>
+    <string name="saya">saya</string>
+</resources>
